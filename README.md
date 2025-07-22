@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @Cintu07
-- 👀 I’m interested in ...learning as much as i can 
-- 🌱 I’m currently learning ...full stack and DSA
-- 💞️ I’m looking to collaborate on ...real world problem solving projects
-- 📫 How to reach me ...you can reach me on instagram @pawanz.07
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...“Hello, World!” was popularized in 1978 – Brian Kernighan wrote this phrase in his book The C Programming Language, and it has since become a standard introduction to programming
+# 👋 Hey, I’m Pawan Kalyan (Cintu07)
 
-<!---
-Cintu07/Cintu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Aspiring Full-Stack Developer | AI-assisted Builder | Problem Solver**  
+
+I’m a **Electronics & Communication Engineering** student passionate about:  
+- Building **web apps that solve real problems**  
+- Leveraging **AI + modern frameworks** to ship projects faster  
+- Learning **DSA & system design** to improve my fundamentals  
+
+## 🌱 What I’m Currently Doing
+- Sharpening my **Full Stack skills** (React, Next.js, Supabase, Tailwind)  
+- Practicing **DSA** for placements  
+- Working on **AI-powered projects** like a Mock Interview Platform  
+
+## 🛠 Projects You Can Check
+- **[Aptitude Practice Platform](https://pawanaptitude.netlify.app)** – Curated aptitude problems with AI hints  
+- **[DSA Practice Platform](https://pawandsa.netlify.app)** – Structured DSA topics with multi-language solutions  
+
+## 💡 What I Believe
+> *“It’s not about typing every line of code. It’s about solving problems and delivering impact.”*  
+
+## 💬 Let’s Connect
+📩 **Instagram:** [@pawanz.07](https://instagram.com/pawanz.07)  
+💼 **LinkedIn:** [pavankalyan-kolagani](https://www.linkedin.com/pavankalyan-kolagani/)  
+
+---
+⭐ **Fun fact:** I built my first working platform in just **5 days** by combining AI tools + deployment skills!
+
