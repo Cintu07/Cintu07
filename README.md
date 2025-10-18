@@ -1,40 +1,34 @@
-<h1 align="center">Hi, I’m Pawan Kalyan (Cintu) 👋</h1>
+# 👋 Hi, I’m Pawan Kalyan (Cintu07)
 
-<p align="center">
-  Aspiring <b>Full‑Stack Developer</b> • <b>AI‑assisted Builder</b> • <b>Problem Solver</b>
-</p>
+🚀 *Full-Stack Developer | AI & Automation Enthusiast | Creative Problem Solver*
 
----
+I’m an Electronics & Communication Engineering student passionate about building innovative digital solutions. I blend full-stack development expertise with cutting-edge AI and automation tools to deliver real-world impact.
 
-### 🚀 About Me
-- ECE student who loves turning ideas into real, usable web apps.
-- I build fast by combining <b>AI</b> with <b>modern frameworks</b>.
-- Strengthening fundamentals through <b>DSA</b> and <b>system design</b>.
+## 🧑‍💻 Tech Stack
+- *Frontend:* HTML, CSS, JavaScript, React
+- *Backend:* Node.js, Express, Socket.io, MySQL
+- *AI & Automation:* OpenAI, Claude, Deepgram, LangChain, Vapi, Retell AI, n8n, Make, Zapier
+- *No-Code/Low-Code:* FlutterFlow, Bubble, Xano, Airtable, GHL, HubSpot
+- *Cloud & Integrations:* Pinecone, Twilio, Supabase, Firebase
+- *Languages:* C, C++, Java, Python, JavaScript
+- *Systems & Concepts:* Unix/Linux environments, Distributed Systems, Machine Learning, Information Retrieval, TCP/IP
+- *Education/Experience:* Bachelor's degree or equivalent practical experience
 
-### 🌱 What I’m Doing Now
-- Sharpening full‑stack skills: <b>React</b>, <b>Next.js</b>, <b>Supabase</b>, <b>Tailwind CSS</b>
-- Practicing <b>DSA</b> for placements
-- Building an <b>AI‑powered Mock Interview Platform</b>
+## 🛠 Projects
+- *[Aptitude Practice Platform](https://pawanaptitude.netlify.app):* Curated aptitude questions with AI-powered hints
+- *[DSA Practice Platform](https://pawandsa.netlify.app):* Organized DSA topics with multi-language solutions and interactive practice
 
-### 📌 Featured Projects
-- <b><a href="https://pawanaptitude.netlify.app">Aptitude Practice Platform</a></b> — Curated aptitude problems with AI hints
-- <b><a href="https://pawandsa.netlify.app">DSA Practice Platform</a></b> — Structured DSA topics with multi‑language solutions
+## 🌟 Highlights
+- Built my first full-fledged platform in just *5 days* using AI tools and rapid deployment strategies
+- Continuously exploring new AI and automation technologies to enhance productivity and project quality
 
-### 🛠 Tech I Use
-React · Next.js · Supabase · Tailwind CSS · GitHub Actions · Vercel/Netlify
+## 💡 Philosophy
+> “Coding isn’t just about writing lines. It’s about solving problems and making an impact.”
 
-### 📊 GitHub Snapshot
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Cintu07&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cintu07&layout=compact&theme=transparent&hide=css,html" alt="Top Languages" />
-</p>
-
-### 💬 Let’s Connect
-- 📩 Instagram: <a href="https://instagram.com/pawanz.07">@pawanz.07</a>
-- 💼 LinkedIn: <a href="https://www.linkedin.com/pavankalyan-kolagani/">pavankalyan-kolagani</a>
+## 📬 Connect with Me
+- *Instagram:* [@pawanz.07](https://instagram.com/pawanz.07)
+- *LinkedIn:* [pavankalyan-kolagani](https://www.linkedin.com/in/pavankalyan-kolagani?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
-⭐ <b>Fun fact:</b> I shipped my first working platform in just <b>5 days</b> by combining AI tools + deployment skills!
-
-<!-- Last updated: 2025-10-15 -->
+Ready to collaborate, innovate, and solve real-world problems!
