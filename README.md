@@ -1,6 +1,6 @@
 # Hi, I’m Pawan Kalyan (Cintu07)
 
-I build useful web apps, AI features, and automations — fast. I like shipping MVPs, testing with real users, and iterating quickly.
+I build useful web apps, AI features, and automations fast. I like shipping MVPs, testing with real users, and iterating quickly.
 
 ## 💫 About Me:
 🔭 I’m currently working on my personal saas 
@@ -14,7 +14,7 @@ I build useful web apps, AI features, and automations — fast. I like shipping 
 
 ---
 
-I build useful web apps, AI features, and automations — fast. I like shipping MVPs, testing with real users, and iterating quickly.
+I build useful web apps, AI features, and automations fast. I like shipping MVPs, testing with real users, and iterating quickly.
 
 What I do
 - Build full‑stack web apps (React + Node)
