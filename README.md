@@ -49,3 +49,5 @@ What I do
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Cintu07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![An image of @cintu07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cintu07)](https://holopin.io/@cintu07)
