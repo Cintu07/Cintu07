@@ -13,7 +13,7 @@ Focused on:
 
 [Code Detox](https://github.com/Cintu07/code-detox) — cleanup tool for unused imports/files/assets  
 [WTH-Is-This](https://github.com/Cintu07/wth-is-this) — repo explainer with structure + tech insights  
-[CommitCraft](https://github.com/Cintu07/commitcraft) — generates commit messages directly from diffs  
+[CommitCraft](https://commitcraft-cli.vercel.app/) — generates commit messages directly from diffs  
 [FontPeek](https://github.com/Cintu07/FontPeek) — font detector as a Chrome extension  
 [PaResume](https://github.com/Cintu07/paresume) — ATS keyword matcher + resume scoring utility  
 [ShyliNote](https://github.com/Cintu07/shylinote) — fast notes, minimal UI
