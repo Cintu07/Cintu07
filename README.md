@@ -6,7 +6,7 @@ Fast iterations > perfect demos.
 Focused on:
 - Shipping small utilities people actually use
 - Web3 + workflow automation + browser extensions
-- Doing client work that pays
+- Doing client work
 
 
 ## Tools & Products
