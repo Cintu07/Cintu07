@@ -1,4 +1,5 @@
-[![](https://github.com/user-attachments/assets/adc5efd3-774c-4112-bb7c-b71bdeed9ec6)](https://pawann.dev)
+[![](https://github.com/user-attachments/assets/dd24a202-c285-4532-9d46-e2493304388f
+)](https://pawann.dev)
 
 <samp>
 
